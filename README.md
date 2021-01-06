@@ -14,7 +14,7 @@
 
 ## Sequence Diagram
 
-![alt text](userLoginDiagram.svg)
+![User Login Image](mermaid/userLoginDiagram.svg)
 
 ## Flowchart
 
