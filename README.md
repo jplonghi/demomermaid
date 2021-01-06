@@ -5,15 +5,15 @@
 ## Documentation
 
 + [Mermaid](https://mermaid-js.github.io/mermaid/#/)
++ [Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
 + [Markdown](https://www.markdownguide.org/basic-syntax/)
 + [Markdown Extended](https://www.markdownguide.org/extended-syntax/)
-+ [Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
 
 ## Browser extensions
 
-+ [Chrome and Edge Extension](https://chrome.google.com/webstore/detail/mermaid-diagrams/phfcghedmopjadpojhmmaffjmfiakfil/)
++ [Google Chrome and Microsoft Edge Extension](https://chrome.google.com/webstore/detail/mermaid-diagrams/phfcghedmopjadpojhmmaffjmfiakfil/)
 
-## VSCOde extensions
+## VSCode extensions
 
 + [Mermaid Editor](https://marketplace.visualstudio.com/items?itemName=tomoyukim.vscode-mermaid-editor)
 + [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
