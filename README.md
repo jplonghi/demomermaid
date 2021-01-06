@@ -9,6 +9,9 @@
 + [Mermaid Editor](https://marketplace.visualstudio.com/items?itemName=tomoyukim.vscode-mermaid-editor)
 + [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 + [Jira Feature Request](https://jira.atlassian.com/browse/BCLOUD-18559)
++ [Mermaid Plugin for Confluence](https://marketplace.atlassian.com/apps/1214124/mermaid-plugin-for-confluence?hosting=server&tab=overview)
++ [Mermaid Integration for Confluence](https://marketplace.atlassian.com/apps/1222792/mermaid-integration-for-confluence?hosting=cloud&tab=overview)
++ [Mermaid Charts & Diagrams for Confluence](https://marketplace.atlassian.com/apps/1222572/mermaid-charts-diagrams-for-confluence?hosting=cloud&tab=overview)
 
 ---
 
